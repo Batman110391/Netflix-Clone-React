@@ -1,6 +1,9 @@
 Preview;
 https://netflix-clone-353af.web.app/
 
+
+![t1](https://user-images.githubusercontent.com/74873935/106741304-c9c1bf00-661b-11eb-9340-b1e107cfc86c.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
